@@ -1,54 +1,34 @@
 ---
-title: "Data Wrangling Project"
-date: 2018-01-28
-tags: [data wrangling, data science, messy data]
+title: "Credit Risk Modeling"
+date: 2020-06-30
+tags: [finance, data science, credit risk, loan default scorecards]
 header:
   image: "/images/perceptron/percept.jpg"
 excerpt: "Data Wrangling, Data Science, Messy Data"
 mathjax: "true"
 ---
 
-# H1 Heading
+### [GitHub Project](https://github.com/BAGLAT/Credit-Risk-Modeling)
 
-## H2 Heading
+Modeling Expected Loss to identify customers that can default on a given loan in future and estimated capital requirement (Capital Adequacy or regulatory capital)
 
-### H3 Heading
+[Data Source](https://www.kaggle.com/wendykan/lending-club-loan-data)
 
-Here's some basic text.
+Expected Loss = PD * EAD * LGD where PD = Probability of default (Works on Logisitic Regression) LGD = Loss given default (Works on Linear Regression) EAD = Exposure at default (Works on Linear Regression)
 
-And here's some *italics*
+Following techniques are used to build the statistical model:
 
-Here's some **bold** text.
-
-What about a [link](https://github.com/dataoptimal)?
-
-Here's a bulleted list:
-* First item
-+ Second item
-- Third item
-
-Here's a numbered list:
-1. First
-2. Second
-3. Third
-
-Python code block:
-```python
-    import numpy as np
-
-    def test_function(x, y):
-      z = np.sum(x,y)
-      return z
-```
-
-R code block:
-```r
-library(tidyverse)
-df <- read_csv("some_file.csv")
-head(df)
-```
-
-Here's some inline code `x+y`.
+* Weight of evidence
+* Information value
+* Fine classing
+* Coarse classing
+* Linear regression
+* Logistic regression
+* Area Under the Curve
+* Receiver Operating Characteristic Curve
+* Gini Coefficient
+* Kolmogorov-Smirnov
+* Assessing Population Stability
 
 Here's an image:
 <img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg" alt="linearly separable data">
@@ -56,8 +36,3 @@ Here's an image:
 Here's another image using Kramdown:
 ![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg)
 
-Here's some math:
-
-$$z=x+y$$
-
-You can also put it inline $$z=x+y$$
