@@ -5,7 +5,7 @@ tags: [finance, data science, credit risk, loan default scorecards]
 header:
   image: "/images/perceptron/percept.jpg"
 excerpt: "Finance, Data Science, Credit Risk, Loan Default Scorecards, Risk Management"
-mathjax: "true"
+mathjax: "false"
 ---
 
 ### [GitHub Project](https://github.com/BAGLAT/Credit-Risk-Modeling)
