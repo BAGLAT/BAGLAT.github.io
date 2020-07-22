@@ -3,7 +3,7 @@ title: "Portfolio Risk Management during and after 2008 Financial Crisis"
 date: 2020-02-30
 tags: [finance, data science, quantitative risk analysis, risk management]
 header:
-  image: "/images/CRM/ModelsCovered.png"
+  image: "/images/PRM/Risk-Management.jpg"
 excerpt: "finance, data science, quantitative risk analysis, risk management"
 mathjax: "true"
 ---
@@ -26,10 +26,10 @@ Working involves following modules:
 4. Optimizing portfolio weights with an objective function to reduce CVaR loss.
 
 VaR
-![alt]({{ site.url }}{{ site.baseurl }}/images/VaR.png)
+![alt]({{ site.url }}{{ site.baseurl }}/images/PRM/VaR.png)
 
 Expected Shortfall - CVaR
-![alt]({{ site.url }}{{ site.baseurl }}/images/CVaR.png)
+![alt]({{ site.url }}{{ site.baseurl }}/images/PRM/CVaR.png)
 
 Efficient Frontier Using Monte Carlo Simulation
-![alt]({{ site.url }}{{ site.baseurl }}/images/Efficient_Frontier_Monte_Carlo_Simulation.png)
+![alt]({{ site.url }}{{ site.baseurl }}/images/PRM/Efficient_Frontier_Monte_Carlo_Simulation.png)
