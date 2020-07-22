@@ -30,9 +30,6 @@ Following techniques are used to build the statistical model:
 * Kolmogorov-Smirnov
 * Assessing Population Stability
 
-Here's an image:
-<img src="{{ site.url }}{{ site.baseurl }}/images/CRM/ROC.png" alt="linearly separable data">
-
-Here's another image using Kramdown:
+ROC Curve
 ![alt]({{ site.url }}{{ site.baseurl }}/images/CRM/ROC.png)
 
