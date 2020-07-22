@@ -3,7 +3,7 @@ title: "Credit Risk Modeling"
 date: 2020-06-30
 tags: [finance, data science, credit risk, loan default scorecards]
 header:
-  image: "/images/perceptron/percept.jpg"
+  image: "/images/CRM/ModelsCovered.png"
 excerpt: "Finance, Data Science, Credit Risk, Loan Default Scorecards, Risk Management"
 mathjax: "true"
 ---
