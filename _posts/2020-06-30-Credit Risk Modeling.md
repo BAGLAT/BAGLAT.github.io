@@ -34,5 +34,5 @@ Here's an image:
 <img src="{{ site.url }}{{ site.baseurl }}/images/CRM/ROC.png" alt="linearly separable data">
 
 Here's another image using Kramdown:
-![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg)
+![alt]({{ site.url }}{{ site.baseurl }}/images/CRM/ROC.png)
 
