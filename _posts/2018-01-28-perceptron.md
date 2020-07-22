@@ -4,7 +4,7 @@ date: 2020-06-30
 tags: [finance, data science, credit risk, loan default scorecards]
 header:
   image: "/images/perceptron/percept.jpg"
-excerpt: "Data Wrangling, Data Science, Messy Data"
+excerpt: "Finance, Data Science, Credit Risk, Loan Default Scorecards, Risk Management"
 mathjax: "true"
 ---
 
