@@ -10,9 +10,7 @@ mathjax: "true"
 
 ### [GitHub Project](https://github.com/BAGLAT/Credit-Risk-Modeling)
 
-<span style="color:blue">
-  
-Credit Risk is the default risk that a person who borrowed money either from an individual or in the form of government bond is not going to repay the loan. In other words, Credit Risk is the likelihood that a borrower would not repay their loan to the lender.
+<span style="color:blue"> Credit Risk is the default risk that a person who borrowed money either from an individual or in the form of government bond is not going to repay the loan. In other words, Credit Risk is the likelihood that a borrower would not repay their loan to the lender.</span>
 
 There are three types of losses a financial institute can incur:
 1.	Expected Loss (EL) is the amount a bank can expect to lose, on average, over a predetermined period when extending credits to its customers.
@@ -38,8 +36,6 @@ Let’s begin our journey, below are the links to the notebooks explaining each 
 1.	[Data Preparation for PD Model](https://github.com/BAGLAT/Credit-Risk-Modeling/blob/master/Code/PD%20Model%20-%20Data%20Preparation%20(ipynb).ipynb)
 2.	[PD Model Estimation and Validation](https://github.com/BAGLAT/Credit-Risk-Modeling/blob/master/Code/PD%20-%20Probability%20of%20Default%20Model%20Creation%20and%20Estimation%20(ipynb).ipynb)
 3.	[LGD, EAD and Total Expected Loss](https://github.com/BAGLAT/Credit-Risk-Modeling/blob/master/Code/LGD%20%2B%20EAD%20Models%20and%20Final%20Total%20Expected%20Loss%20(ipynb).ipynb)
-
-</span>
 
 ## Output
 Given the funded amount our model predicts expected loss for each of the loan.
