@@ -10,7 +10,7 @@ mathjax: "true"
 
 ### [GitHub Project](https://github.com/BAGLAT/Credit-Risk-Modeling)
 
-<span style="font-family:Papyrus; font-size:0.5em;"> Credit Risk is the default risk that a person who borrowed money either from an individual or in the form of government bond is not going to repay the loan. In other words, Credit Risk is the likelihood that a borrower would not repay their loan to the lender.</span>
+<span style="font-family:Papyrus; font-size:1.3em;"> Credit Risk is the default risk that a person who borrowed money either from an individual or in the form of government bond is not going to repay the loan. In other words, Credit Risk is the likelihood that a borrower would not repay their loan to the lender.</span>
 
 There are three types of losses a financial institute can incur:
 1.	Expected Loss (EL) is the amount a bank can expect to lose, on average, over a predetermined period when extending credits to its customers.
