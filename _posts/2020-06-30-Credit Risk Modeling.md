@@ -12,10 +12,10 @@ mathjax: "true"
 
 <span style="font-family:Papyrus; font-size:0.9em;"> Credit Risk is the default risk that a person who borrowed money either from an individual or in the form of government bond is not going to repay the loan. In other words, Credit Risk is the likelihood that a borrower would not repay their loan to the lender.</span>
 
-><span style="font-family:Papyrus; font-size:0.9em;"> There are three types of losses a financial institute can incur:
->>1.	**Expected Loss (EL)** is the amount a bank can expect to lose, on average, over a predetermined period when extending credits to its customers.
->>2.	**Unexpected Loss (UL)** occurs in adverse economic circumstances. It is the volatility of credit losses around its expected loss. Once a bank determines its expected loss, it >>sets aside credit reserves in preparation for unexpected losses.
->>3.	**Exceptional Stress Loss** – Highly unlikely losses result due to the severe economic downturn such as at the time for financial crisis of 2008.</span>
+><span style="font-family:Papyrus; font-size:0.9em;"> There are three types of losses a financial institute can incur:</span>
+>><span style="font-family:Papyrus; font-size:0.7em;"> 1.	**Expected Loss (EL)** is the amount a bank can expect to lose, on average, over a predetermined period when extending credits to its customers.</span>
+>><span style="font-family:Papyrus; font-size:0.7em;"> 2.	**Unexpected Loss (UL)** occurs in adverse economic circumstances. It is the volatility of credit losses around its expected loss. Once a bank determines its expected loss, it sets aside credit reserves in preparation for unexpected losses.</span>
+>><span style="font-family:Papyrus; font-size:0.7em;"> 3.	**Exceptional Stress Loss** – Highly unlikely losses result due to the severe economic downturn such as at the time for financial crisis of 2008.</span>
 
 In this project I am focusing on modelling Expected Loss.
 
