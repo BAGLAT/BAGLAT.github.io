@@ -40,3 +40,6 @@ Let’s begin our journey, below are the links to the notebooks explaining each 
 ## Output
 Given the funded amount our model predicts expected loss for each of the loan.
 
+![alt]({{ site.url }}{{ site.baseurl }}/images/CRM/Output1.png)
+![alt]({{ site.url }}{{ site.baseurl }}/images/CRM/Output2.png)
+
