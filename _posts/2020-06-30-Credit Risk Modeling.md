@@ -17,18 +17,19 @@ mathjax: "true"
 >><span style="font-family:Papyrus; font-size:0.7em;"> 2.	**Unexpected Loss (UL)** occurs in adverse economic circumstances. It is the volatility of credit losses around its expected loss. Once a bank determines its expected loss, it sets aside credit reserves in preparation for unexpected losses.</span>
 >><span style="font-family:Papyrus; font-size:0.7em;"> 3.	**Exceptional Stress Loss** – Highly unlikely losses result due to the severe economic downturn such as at the time for financial crisis of 2008.</span>
 
-In this project I am focusing on modelling Expected Loss.
+<span style="font-family:Papyrus; font-size:0.9em;">In this project I am focusing on modelling Expected Loss.</span>
 
-Three components are there in Expected Loss:
-1.	Probability of Default (PD) – Likelihood that someone will default on a loan.
-2.	Exposure at default (EAD) - Amount outstanding to be paid.
-3.	Loss given default (LGD) - Exposure at Default / Recovery from Loss if you sell the bond.
-Expected loss = PD * EAD * LGD
+><span style="font-family:Papyrus; font-size:0.9em;">Three components are there in Expected Loss:</span>
+>><span style="font-family:Papyrus; font-size:0.7em;">1.	Probability of Default (PD) – Likelihood that someone will default on a loan.</span>
+>><span style="font-family:Papyrus; font-size:0.7em;">2.	Exposure at default (EAD) - Amount outstanding to be paid.</span>
+>><span style="font-family:Papyrus; font-size:0.7em;">3.	Loss given default (LGD) - Exposure at Default / Recovery from Loss if you sell the bond.</span>
 
-The process of modelling expected loss is divided into modelling each of the PD, LGD and EAD components separately. The three main steps for modelling each component are : 
-1.	Data preparation or pre-processing.
-2.	Model creation and estimation.
-3.	Out-of-sample model validation.
+<span style="font-family:Papyrus; font-size:0.9em;">Expected loss = PD * EAD * LGD</span>
+
+<span style="font-family:Papyrus; font-size:0.9em;">The process of modelling expected loss is divided into modelling each of the PD, LGD and EAD components separately. The three main steps for modelling each component are :</span>
+<span style="font-family:Papyrus; font-size:0.7em;">* Data preparation or pre-processing.</span>
+<span style="font-family:Papyrus; font-size:0.7em;">* Model creation and estimation.</span>
+<span style="font-family:Papyrus; font-size:0.7em;">* Out-of-sample model validation and Total Expected Loss.</span>
 
 [Data Source](https://www.kaggle.com/wendykan/lending-club-loan-data)
 Consists of complete loan data for all loans issued through the 2007-2015, including the current loan status (Current, Late, Fully Paid, etc.) and latest payment information in USA.
