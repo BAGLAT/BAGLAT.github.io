@@ -12,6 +12,9 @@ mathjax: "true"
 
 Modeling Expected Loss to identify customers that can default on a given loan in future and estimated capital requirement (Capital Adequacy or regulatory capital)
 
+[PD Model](https://github.com/BAGLAT/Credit-Risk-Modeling/blob/master/Code/PD%20Model%20(IPYNB%20File).ipynb)
+
+
 [Data Source](https://www.kaggle.com/wendykan/lending-club-loan-data)
 
 Expected Loss = PD * EAD * LGD where PD = Probability of default (Works on Logisitic Regression) LGD = Loss given default (Works on Linear Regression) EAD = Exposure at default (Works on Linear Regression)
