@@ -26,16 +26,16 @@ mathjax: "true"
 
 <span style="font-family:Papyrus; font-size:0.9em;">**Expected loss = PD x EAD x LGD**</span>
 
+
+## [Data Source](https://www.kaggle.com/wendykan/lending-club-loan-data)  
+<span style="font-family:Papyrus; font-size:0.9em;">Consists of complete loan data for all loans issued through the 2007-2015, including the current loan status (Current, Late, Fully Paid, etc.) and latest payment information in USA.</span>  
+
 ## Notebooks
 <span style="font-family:Papyrus; font-size:0.9em;">The process of modelling expected loss is divided into modelling each of the PD, LGD and EAD components separately. The three main steps for modelling each component are :</span>
-
 <span style="font-family:Papyrus; font-size:0.9em;">**1. [Data preparation or pre-processing](https://github.com/BAGLAT/Credit-Risk-Modeling/blob/master/Code/PD%20Model%20-%20Data%20Preparation%20(ipynb).ipynb)**</span>  
 <span style="font-family:Papyrus; font-size:0.9em;">**2. [Model Training and Testing](https://github.com/BAGLAT/Credit-Risk-Modeling/blob/master/Code/PD%20-%20Probability%20of%20Default%20Model%20Creation%20and%20Estimation%20(ipynb).ipynb)**</span>  
 <span style="font-family:Papyrus; font-size:0.9em;">**2. [Out of Sample Validation and Total Expected Loss ](https://github.com/BAGLAT/Credit-Risk-Modeling/blob/master/Code/LGD%20%2B%20EAD%20Models%20and%20Final%20Total%20Expected%20Loss%20(ipynb).ipynb)**</span>  
 <span style="font-family:Papyrus; font-size:0.8em;">**Note : Click on each notebook to understand the models and the final scorecard at the end of this journey **</span>  
-
-## [Data Source](https://www.kaggle.com/wendykan/lending-club-loan-data)  
-<span style="font-family:Papyrus; font-size:0.9em;">Consists of complete loan data for all loans issued through the 2007-2015, including the current loan status (Current, Late, Fully Paid, etc.) and latest payment information in USA.</span>  
 
 ## Output
 Given the funded amount our model predicts expected loss for each of the loan.
