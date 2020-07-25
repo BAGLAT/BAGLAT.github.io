@@ -24,7 +24,7 @@ mathjax: "true"
 <span style="font-family:family; font-size:0.8em;">3. Modern Portfolio Theory (Efficient Portfolio and Efficient Frontiers).</span>  
 <span style="font-family:family; font-size:0.8em;">4. Optimizing portfolio weights with an objective function to reduce CVaR loss.</span>  
 
-<span style="font-family:family; font-size:0.9em;">Let's dive into the code</span>
+<span style="font-family:family; font-size:0.9em;">Let's dive into the code.</span>
 
 ### Importing Python Packages
 ```python
