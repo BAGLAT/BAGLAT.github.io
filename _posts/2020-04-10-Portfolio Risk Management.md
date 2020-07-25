@@ -18,13 +18,15 @@ mathjax: "true"
 <span style="font-family:family; font-size:0.8em;">3. Morgan Stanley</span>  
 <span style="font-family:family; font-size:0.8em;">4. JPMorgan Chase & Co.</span>  
 
-<span style="font-family:family; font-size:0.9em;">Working involves following modules:</span>
+<span style="font-family:family; font-size:0.9em;">Working involves following modules:</span>  
 <span style="font-family:family; font-size:0.8em;">1. Portfolio risk measures (VaR and CVaR) with varying confidence intervals.</span>  
 <span style="font-family:family; font-size:0.8em;">2. Risk estimation techniques - Parametric, Historical and Monte Carlo Simulation.</span>  
 <span style="font-family:family; font-size:0.8em;">3. Modern Portfolio Theory (Efficient Portfolio and Efficient Frontiers).</span>  
 <span style="font-family:family; font-size:0.8em;">4. Optimizing portfolio weights with an objective function to reduce CVaR loss.</span>  
 
+<span style="font-family:family; font-size:0.9em;">Let's dive into the code</span>
 
+### Importing Python Packages
 ```python
 import pandas as pd
 import matplotlib.pyplot as plt
