@@ -392,7 +392,7 @@ plt.title('Close Price of 4 major price during financial crisis')
 
 
 
-![png](output_14_1.png)
+![alt]({{ site.url }}{{ site.baseurl }}/images/PRM/output_14_1.png)
 
 
 ### Quantifying Return (Taking log returns in place of close prices due to high autocorrelation in prices)
@@ -653,7 +653,7 @@ plt.title('Boxplot to measure Outliers of Citi Bank stock price returns')
 
 
 
-![png](output_22_1.png)
+![alt]({{ site.url }}{{ site.baseurl }}/images/PRM/output_22_1.png)
 
 
 
@@ -671,7 +671,7 @@ plt.title('Boxplot to measure Outliers of Citi Bank stock price returns')
 
 
 
-![png](output_23_1.png)
+![alt]({{ site.url }}{{ site.baseurl }}/images/PRM/output_23_1.png)
 
 
 
@@ -689,7 +689,7 @@ plt.title('Boxplot to measure Outliers of JPMorgan Chase & Co. Bank stock price 
 
 
 
-![png](output_24_1.png)
+![alt]({{ site.url }}{{ site.baseurl }}/images/PRM/output_24_1.png)
 
 
 
@@ -707,7 +707,7 @@ plt.title('Boxplot to measure Outliers of Goldman Sachs Bank stock price returns
 
 
 
-![png](output_25_1.png)
+![alt]({{ site.url }}{{ site.baseurl }}/images/PRM/output_25_1.png)
 
 
 ### Considering equal weightage to each asset in a portfolio
@@ -903,7 +903,7 @@ plt.show()
 ```
 
 
-![png](output_40_0.png)
+![alt]({{ site.url }}{{ site.baseurl }}/images/PRM/output_40_0.png)
 
 
 ### Above graph shows very high volatility from July 2008 to July 2009 
@@ -1006,7 +1006,7 @@ volatility.plot(color = 'green').set_ylabel("Annualized Volatility, 30-day Windo
 
 
 
-![png](output_59_1.png)
+![alt]({{ site.url }}{{ site.baseurl }}/images/PRM/output_59_1.png)
 
 
 
@@ -1419,7 +1419,7 @@ plt.ylabel("Delinquency rate, decimal %")
 
 
 
-![png](output_74_1.png)
+![alt]({{ site.url }}{{ site.baseurl }}/images/PRM/output_74_1.png)
 
 
 
@@ -1437,7 +1437,7 @@ plt.ylabel("Delinquency rate, decimal %")
 
 
 
-![png](output_75_1.png)
+![alt]({{ site.url }}{{ site.baseurl }}/images/PRM/output_75_1.png)
 
 
 Initial assessment indicates that there is little correlation between average returns and mortgage delinquencies, 
@@ -1780,7 +1780,7 @@ plt.show()
 ```
 
 
-![png](output_92_0.png)
+![alt]({{ site.url }}{{ site.baseurl }}/images/PRM/output_92_0.png)
 
 
 
@@ -2339,7 +2339,7 @@ plt.plot(vol,ret,c='r')
 
 
 
-![png](output_115_1.png)
+![alt]({{ site.url }}{{ site.baseurl }}/images/PRM/output_115_1.png)
 
 
 
@@ -2382,7 +2382,7 @@ plt.plot(vol,ret,c='g')
 
 
 
-![png](output_119_1.png)
+![alt]({{ site.url }}{{ site.baseurl }}/images/PRM/output_119_1.png)
 
 
 
@@ -2520,7 +2520,7 @@ plt.tight_layout()
 ```
 
 
-![png](output_124_0.png)
+![alt]({{ site.url }}{{ site.baseurl }}/images/PRM/output_124_0.png)
 
 
 
@@ -2737,7 +2737,7 @@ plt.scatter(max_sr_vol,max_sr_ret,c='red',s=50,edgecolors='black')
 
 
 
-![png](output_137_1.png)
+![alt]({{ site.url }}{{ site.baseurl }}/images/PRM/output_137_1.png)
 
 
 # Var(Value at Risk) of a Normal Distribution
@@ -2767,7 +2767,7 @@ plt.legend(); plt.show()
     
 
 
-![png](output_139_1.png)
+![alt]({{ site.url }}{{ site.baseurl }}/images/PRM/output_139_1.png)
 
 
 ## CVAR of a Normal Distribution
@@ -2849,7 +2849,7 @@ plt.legend(); plt.show()
 ```
 
 
-![png](output_146_0.png)
+![alt]({{ site.url }}{{ site.baseurl }}/images/PRM/output_146_0.png)
 
 
 ## VaR of Student's t-distribution
