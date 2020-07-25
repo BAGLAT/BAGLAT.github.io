@@ -10,20 +10,19 @@ mathjax: "true"
 
 ### [GitHub Project](https://github.com/BAGLAT/Portfolio-Risk-Management)
 
-Completed a project on portfolio risk management considering returns of four major investment banks during financial crisis (2008-2010) using Python. 
+<span style="font-family:Papyrus; font-size:0.9em;">A project on portfolio risk management considering returns of four major investment banks during financial crisis (2008-2010) using Python.</span>  
 
-Stocks of following companies were taken in a portfolio:
-1. Goldman Sachs
-2. Citi
-3. Morgan Stanley
-4. JPMorgan Chase & Co.
+<span style="font-family:Papyrus; font-size:0.9em;">Stocks of following companies were taken in a portfolio:</span>  
+>><span style="font-family:Papyrus; font-size:0.7em;">1. Goldman Sachs</span>  
+>><span style="font-family:Papyrus; font-size:0.7em;">2. Citi</span>  
+>><span style="font-family:Papyrus; font-size:0.7em;">3. Morgan Stanley</span>  
+>><span style="font-family:Papyrus; font-size:0.7em;">4. JPMorgan Chase & Co.</span>  
 
-Working involves following modules:
-
-1. Portfolio risk measures (VaR and CVaR) with varying confidence intervals.
-2. Risk estimation techniques - Parametric, Historical and Monte Carlo Simulation.
-3. Modern Portfolio Theory (Efficient Portfolio and Efficient Frontiers).
-4. Optimizing portfolio weights with an objective function to reduce CVaR loss.
+<span style="font-family:Papyrus; font-size:0.9em;">Working involves following modules:
+>><span style="font-family:Papyrus; font-size:0.7em;">**Portfolio risk measures (VaR and CVaR) with varying confidence intervals.**</span>  
+>><span style="font-family:Papyrus; font-size:0.7em;">**Risk estimation techniques - Parametric, Historical and Monte Carlo Simulation.**</span>  
+>><span style="font-family:Papyrus; font-size:0.7em;">**Modern Portfolio Theory (Efficient Portfolio and Efficient Frontiers).**</span>  
+>><span style="font-family:Papyrus; font-size:0.7em;">**Optimizing portfolio weights with an objective function to reduce CVaR loss.**</span>  
 
 
 ```python
