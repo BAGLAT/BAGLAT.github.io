@@ -1,7 +1,7 @@
 ---
 title: "Portfolio Risk Management during 2008 Financial Crisis"
 date: 2020-02-30
-tags: [finance, data science, quantitative risk analysis, risk management]
+tags: [Finance, Data Science, Quantitative risk analysis, Risk management]
 header:
   image: "/images/PRM/Returns.png"
 excerpt: "finance, data science, quantitative risk analysis, risk management"
