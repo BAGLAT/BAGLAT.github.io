@@ -10,7 +10,7 @@ mathjax: "true"
 
 ### Binary Customer Churn Evaluator
 
-<span style="font-family:Papyrus; font-size:0.9em;">A marketing agency has many customers that use their service to produce ads for the client/customer websites. They've noticed that they have quite a bit of churn in clients. They basically randomly assign account managers right now, but want you to create a machine learning model that will help predict which customers will churn (stop buying their service) so that they can correctly assign the customers most at risk to churn an account manager. Luckily they have some historical data, can you help them out? Create a classification algorithm that will help classify whether or not a customer churned. Then the company can test this against incoming data for future customers to predict which customers will churn and assign them an account manager.</span>  
+<span style="font-family:Papyrus; font-size:0.9em;">A marketing agency has many customers that use their service to produce ads for the client/customer websites. They've noticed that they have quite a bit of churn in clients. They basically randomly assign account managers right now, but want me to create a machine learning model that will help predict which customers will churn (stop buying their service) so that they can correctly assign the customers most at risk to churn an account manager. Luckily they have some historical data. I have created a classification algorithm that will help classify whether or not a customer churned. Then the company can test this against incoming data for future customers to predict which customers will churn and assign them an account manager.</span>  
 
 <span style="font-family:Papyrus; font-size:0.9em;">The data is saved as customer_churn.csv. Here are the fields and their definitions:</span>  
 
@@ -24,7 +24,7 @@ mathjax: "true"
     Location: Client HQ Address
     Company: Name of Client Company
     
-<span style="font-family:Papyrus; font-size:0.9em;">Once you've created the model and evaluated it, test out the model on some new data (you can think of this almost like a hold-out set) that your client has provided, saved under new_customers.csv. The client wants to know which customers are most likely to churn given this data (they don't have the label yet).</span>  
+<span style="font-family:Papyrus; font-size:0.9em;">Once we've created the model and evaluated it, we have to test out the model on some new data that your client has provided, saved under new_customers.csv. The client wants to know which customers are most likely to churn given this data (they don't have the label yet).</span>  
 
 
 ```python
@@ -905,11 +905,11 @@ final_results.select('Company','prediction').show()
     +----------------+----------+
     
 
-<span style="font-family:Papyrus; font-size:0.9em;">Ok! That is it! Now we know that we should assign Acocunt Managers to below customers"</span>  
-<span style="font-family:Papyrus; font-size:0.9em;">1. Cannon-Benson</span>  
-<span style="font-family:Papyrus; font-size:0.9em;">2. Barron-Robertson</span>  
-<span style="font-family:Papyrus; font-size:0.9em;">3. Sexton-GOlden</span>  
-<span style="font-family:Papyrus; font-size:0.9em;">4. Parks-Robbins</span>  
+<span style="font-family:Papyrus; font-size:1.0em;">Ok! That is it! Now we know that we should assign Acocunt Managers to below would be **churned** customers"</span>  
+<span style="font-family:Papyrus; font-size:1.0em;">1. Cannon-Benson</span>  
+<span style="font-family:Papyrus; font-size:1.0em;">2. Barron-Robertson</span>  
+<span style="font-family:Papyrus; font-size:1.0em;">3. Sexton-GOlden</span>  
+<span style="font-family:Papyrus; font-size:1.0em;">4. Parks-Robbins</span>  
   
 
 
