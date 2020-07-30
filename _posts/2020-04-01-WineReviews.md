@@ -1,4 +1,5 @@
 ---
+layout: notebook
 title: "Statistical Modeling of Wine Reviews"
 date: 2020-04-01
 header:
