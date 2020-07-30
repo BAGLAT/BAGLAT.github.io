@@ -1,4 +1,5 @@
 ---
+layout: notebook
 title: "Credit Risk Modeling"
 date: 2020-06-30
 tags: [finance, data science, credit risk, loan default scorecards]
