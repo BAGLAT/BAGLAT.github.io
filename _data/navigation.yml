@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Data Wrangling Projects"
-    url: /data-wrangling/
+    url: https://baglat.github.io/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
