@@ -5,7 +5,7 @@ header:
   image: "/images/Wine-Reviews/header.jpg"
 mathjax: "true"
 ---
-<span style="font-family:Papyrus; font-size:0.9em;">**Project**</span>
+<span style="font-family:Papyrus; font-size:0.9em;">*Analyse wine reviews to transform it into some useful information that can be used by non-technical people like wine sellers who would like to use this analysis in a qualitative way or by technical managers/supervisors who check the correctness of the analysis done.*</span>
 ![alt]({{ site.url }}{{ site.baseurl }}/images/Wine-Reviews/Questions.png)
 ![alt]({{ site.url }}{{ site.baseurl }}/images/Wine-Reviews/intro.png)
 
