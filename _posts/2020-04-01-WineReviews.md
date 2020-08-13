@@ -1,5 +1,5 @@
 ---
-title: <span style="font-family:Papyrus; font-size:0.9em;">"Statistical Modeling of Wine Reviews"</span>  
+title: <span style="font-family:Papyrus; font-size:0.9em;">Statistical Modeling of Wine Reviews</span>  
 date: 2020-04-01
 header:
   image: "/images/Wine-Reviews/header.jpg"
